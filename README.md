@@ -15,7 +15,7 @@ Investigate on the various categories of tools as follows.
 Open terminal and try execute some kali linux commands.
 
 ```
-Tested By:Hemapriya R
+Tested By: Hemapriya R
 Reg.no. : 212222040055
 ```
 
@@ -48,7 +48,8 @@ It shows the following screen in which the option Google can be selected:
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done: 
 
-![image](https://github.com/Yamunaasri/creating-a-backdoor-with-SET/assets/115707860/7e0a6295-2e6f-4464-bc54-b96776222eba)
+![image](https://github.com/user-attachments/assets/ef57dac4-124c-4487-a21d-319847b761f1)
+
 
 In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password 
 
