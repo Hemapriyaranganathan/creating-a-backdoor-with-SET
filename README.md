@@ -15,8 +15,8 @@ Investigate on the various categories of tools as follows.
 Open terminal and try execute some kali linux commands.
 
 ```
-Tested By:ANANDHAMOORTHY.k
-Reg.no. : 212222100004
+Tested By:Hemapriya R
+Reg.no. : 212222040055
 ```
 
 ## EXECUTION STEPS AND ITS OUTPUT:
