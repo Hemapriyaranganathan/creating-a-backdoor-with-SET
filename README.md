@@ -48,12 +48,14 @@ It shows the following screen in which the option Google can be selected:
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done: 
 
-![image](https://github.com/user-attachments/assets/ef57dac4-124c-4487-a21d-319847b761f1)
+![image](https://github.com/user-attachments/assets/c2b3be7c-247e-417d-be04-acd6fd38465d)
+
 
 
 In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password 
 
-![image](https://github.com/Yamunaasri/creating-a-backdoor-with-SET/assets/115707860/ee719ce0-cbff-4a7d-a265-9fa29ed70ba7)
+![image](https://github.com/user-attachments/assets/de37506b-456d-4bbc-ba11-256a358e083d)
+
 
 SET logs the information regarding the Google credentials: 
 
